@@ -29,8 +29,7 @@ PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/vendor/etc/sensors/config/msmnile_ak991x_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/msmnile_ak991x_0_somc_product.json \
     $(DEVICE_PATH)/vendor/etc/sensors/config/msmnile_lsm6dsm_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/msmnile_lsm6dsm_0_somc_product.json \
     $(DEVICE_PATH)/vendor/etc/sensors/config/msmnile_tmd2725_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/msmnile_tmd2725_somc_product.json \
-    $(DEVICE_PATH)/vendor/etc/sensors/config/msmnile_tmd3725_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/msmnile_tmd3725_somc_product.json \
-    $(DEVICE_PATH)/vendor/etc/sensors/config/sns_device_orient_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_device_orient_somc_product.json
+    $(DEVICE_PATH)/vendor/etc/sensors/config/msmnile_tmd3725_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/msmnile_tmd3725_somc_product.json
 
 # Audio Configuration
 PRODUCT_COPY_FILES += \
